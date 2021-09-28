@@ -8,4 +8,5 @@ This project has four basic functionality that are:
 4. Delete Contact – To delete a contact from the database.
 
 Programming Language: Java
+
 Database used: MySQL 5.5 Command-Line Client
